@@ -1,0 +1,87 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#div1{
+    border-collapse: collapse;
+    border: 2px solid black;
+    width: 90%;
+    height: 100%;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    background-color:  chocolate;
+}
+h2{
+    margin-left: 200px;
+}
+
+.g{
+    border-collapse: collapse;
+    border: 1px solid black;
+    background-color: aqua;
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    text-transform: uppercase;
+}
+#t2{
+    border-radius: 1px solid  chocolate;
+}
+button{
+    background-color: chocolate;
+    color: aliceblue;
+    padding: 8px;
+    border: 1px solid chocolate;
+    margin-right: 10px;
+    font-size: 13px;
+}
+#BtnAjouteDep{
+    display: flex;margin: auto;
+    margin-right: 200px;
+}
+#BtnAjouteRev{
+    display: flex;margin: auto;
+    margin-right: 200px;
+}
+table{
+    border-collapse: collapse;
+    border: 1px solid;
+    width: 70%;
+    height: 70%;
+    margin: 30px auto;
+}
+tr,th,td{
+    border: 1px solid black;
+}
+#bt{
+    border-collapse: collapse;
+    border: 1px solid black;
+    margin-top: 2%;
+    width: 40%;
+    float: right;
+    margin-right: 60px;
+    background-color: blue;
+    flex-wrap: wrap;
+}
+#btt{
+    border-collapse: collapse;
+    border: 1px solid black;
+    margin-top: 2%;
+    width: 40%;
+    float: right;
+    margin-right: 30px;
+    background-color: blue;
+}
+h6{
+    text-align: center;
+}
+.f{
+    display: flex;
+    margin: auto;
+    float: right;
+    background-color: beige;
+    cursor: pointer;
+    color: #00ff2f;
+}
